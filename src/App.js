@@ -1,6 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
 // comment
+// trial
+
 function App() {
   return (
     <div className="App">
@@ -10,7 +12,7 @@ function App() {
         <p>
           Sample React app for AWS CLI 
         </p>
-        <p>Build trial</p>
+        <p>Build trial again</p>
         <a
           className="App-link"
           href="https://reactjs.org"
