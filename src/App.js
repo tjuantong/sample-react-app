@@ -12,7 +12,7 @@ function App() {
         <p>
           Sample React app for AWS CLI 
         </p>
-        <p>Build trial again</p>
+        <p>Build trial again 2</p>
         <a
           className="App-link"
           href="https://reactjs.org"
