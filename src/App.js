@@ -10,7 +10,7 @@ function App() {
         <p>
           Sample React app for AWS CLI 
         </p>
-        <p>Test</p>
+        <p>Test Build 1</p>
         <a
           className="App-link"
           href="https://reactjs.org"
